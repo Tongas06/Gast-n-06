@@ -1,0 +1,18 @@
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+body {
+    background-color: olivedrab;    
+}
+
+#calcular-total {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;    
+}
+
+#total {
+    font-size: 30px;
+}
