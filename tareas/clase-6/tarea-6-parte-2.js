@@ -108,7 +108,7 @@ function obtenerSalariosTrabajadores() {
     return salarios;
  }
 
-
+console.log('Que pesado gitdesktop');
 
 
 
